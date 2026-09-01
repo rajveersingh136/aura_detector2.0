@@ -1,4 +1,4 @@
-# 🔮 Aura Detector 2.0
+# Aura Detector 2.0
 
 A simple and interactive web application that calculates a user's Aura Score based on their answers to a set of questions.
 
